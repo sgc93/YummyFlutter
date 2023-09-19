@@ -11,4 +11,13 @@ class Recipe {
     required this.totalTime,
   });
 
+  factory Recipe.fromJSON(dynamic json){
+    return Recipe(
+      name: json['name'] as String,
+      images: json['images'][0]['hostedLargeUrl'] as String,
+      rating: json['rating'] as double,
+      totalTime: json['totalTime'] as String,
+    );
+  }
+
 }
