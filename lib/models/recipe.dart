@@ -20,9 +20,9 @@ class Recipe {
     );
   }
 
-  List<Recipe> recipeList(List snapshot){
-    return snapshot.map((data){
-      return Recipe.fromJSON(data);
+  List<Recipe> extractFetchedJson(List recipesInJson){
+    return recipesInJson.map((recipe){
+      return Recipe.fromJSON(recipe);
     }).toList();
   }
 }
