@@ -6,7 +6,7 @@ YummyFlutter is a delightful Flutter app that allows you to discover and explore
 
 - **Recipe Discovery:** initially listed recipes.
 - **Rating Marker:** rating or the recipe from 5.0.
-- **Cooking Time** amount of time to do the recipe.
+- **Cooking Time:** amount of time to do the recipe.
 
 ## Screenshots
 
@@ -25,7 +25,7 @@ Follow these instructions to get a copy of YummyFlutter up and running on your l
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/YummyFlutter.git
+   git clone https://github.com/sgc93/YummyFlutter.git
 
 2. Navigate to the project directory:
 
@@ -39,6 +39,7 @@ Follow these instructions to get a copy of YummyFlutter up and running on your l
 
    ```bash
    flutter run
+
 ### Contributing
    Contributions are welcome! If you'd like to contribute to YummyFlutter, please follow these guidelines:
 
@@ -58,4 +59,4 @@ Recipe data sourced from [RapidApi-Yummly](https://rapidapi.com/apidojo/api/yumm
 ## Contact
 If you have any questions or feedback, feel free to contact me at smachewgedefaw@gmail.com .
 
-Happy cooking with YummyFlutter🤔
+Happy co-ok/d-ing with YummyFlutter🤔
