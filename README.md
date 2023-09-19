@@ -10,7 +10,7 @@ YummyFlutter is a delightful Flutter app that allows you to discover and explore
 
 ## Screenshots
 
-![Homepage](/screenshots/screenshot1.png)
+![Homepage](https://github.com/sgc93/YummyFlutter/blob/main/assets/images/ScreenshotYummyFlutter.png)
 
 ## Getting Started
 
