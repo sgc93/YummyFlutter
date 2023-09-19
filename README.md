@@ -49,7 +49,7 @@ Follow these instructions to get a copy of YummyFlutter up and running on your l
    5. Push your branch to your fork.
    6. Submit a pull request to the main repository.
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sgc93/YummyFlutter/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 Special thanks to the Flutter community for their support and inspiration.
