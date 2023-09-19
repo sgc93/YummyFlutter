@@ -48,12 +48,12 @@ Follow these instructions to get a copy of YummyFlutter up and running on your l
    4. Commit your changes with descriptive commit messages.
    5. Push your branch to your fork.
    6. Submit a pull request to the main repository.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/sgc93/YummyFlutter/blob/main/LICENSE) file for details.
 
-## Acknowledgments
-Special thanks to the Flutter community for their support and inspiration.
-Recipe data sourced from [RapidApi]().
+## Acknowledgments.
+Recipe data sourced from [RapidApi-Yummly](https://rapidapi.com/apidojo/api/yummly2).
 
 ## Contact
 If you have any questions or feedback, feel free to contact me at smachewgedefaw@gmail.com .
