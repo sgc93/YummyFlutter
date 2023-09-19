@@ -1,16 +1,29 @@
-# yummy_flutter
+# YummyFlutter
 
-A new Flutter project.
+YummyFlutter is a delightful Flutter app that allows you to discover and explore a world of delicious food recipes from the internet. This project has been built to demonstrate how to fetch data from the internet and display it in an interesting and user-friendly way.
+
+## Features
+
+- **Recipe Discovery:** initially listed recipes.
+- **Rating Marker:** rating or the recipe from 5.0.
+- **Cooking Time** amount of time to do the recipe.
+
+## Screenshots
+
+![Homepage](/screenshots/screenshot1.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these instructions to get a copy of YummyFlutter up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/) installed on your system.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/YummyFlutter.git
+  ```
