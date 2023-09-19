@@ -20,8 +20,8 @@ class Recipe {
     );
   }
 
-  List<Recipe> extractFetchedJson(List recipesInJson){
-    return recipesInJson.map((recipe){
+  static List<Recipe> extractFetchedJson(List recipesInList){
+    return recipesInList.map((recipe){
       return Recipe.fromJSON(recipe);
     }).toList();
   }
