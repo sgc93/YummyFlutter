@@ -64,7 +64,7 @@ class RecipeCard extends StatelessWidget {
                     children: [
                       const Icon(
                         Icons.star,
-                        color: Colors.white,
+                        color: Colors.amber,
                         size: 15,
                       ),
                       const SizedBox(width: 7,),
@@ -89,7 +89,7 @@ class RecipeCard extends StatelessWidget {
                     children: [
                       const Icon(
                         Icons.schedule,
-                        color: Colors.white,
+                        color: Colors.amber,
                         size: 15,
                       ),
                       const SizedBox(width: 7),
