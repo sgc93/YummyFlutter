@@ -25,4 +25,9 @@ class Recipe {
       return Recipe.fromJSON(recipe);
     }).toList();
   }
+
+  @override
+  String toString(){
+    return 'Recipe {name: $name, images: $images, rating: $rating, totalTime: $totalTime}';
+  }
 }
